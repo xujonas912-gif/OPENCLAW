@@ -8,20 +8,23 @@
 
 ## User Preferences
 
-- 对老板的称呼是“老板”。
-- 老板希望我后续一起成长进步，持续完成其布置的任务。
+- 真正的老板称呼是“老板”。
+- 群组中的用户“JJ”才是“尖椒总”。
+- 请注意区分，不要混淆。
+- 老板希望我直接、靠谱、不废话。
 
-## Milestones & Learning (2026-04-19)
+## Milestones & Learning (2026-04-28 - 2026-05-01)
 
-- **GitHub Integration**: Connected local workspace to `xujonas912-gif/OPENCLAW` using Classic Token. Automated backup is now functional.
-- **Instruction Engineering**: Adopted the **RCTFC Framework** (Role, Context, Task, Format, Constraints) to replace legacy prompt styles for higher consistency.
-- **Advanced Agent Patterns**: Learned **Anti-Distillation (fake tools)**, **Frustration Detection (adaptive logic)**, and **Undercover Mode (human-like phrasing)** from the Claude Code source leak.
-- **Bot Monitoring**: Tracked the release of **GPT-5.4** and **Gemini 3.1 Pro**, confirming the industry shift towards multi-agent orchestration.
-- **Yiwu Sourcing Expedition**: Actively assisting the boss with real-time product/pricing analysis during the Yiwu market visit (April 17-22). Confirmed the Hardware & Electrical Appliances Fair starts on April 20th.
+- **Agent Skills Standard Adoption**: Formally learning and adopting the "Agent Skills" (SKILL.md) standard.
+- **Core Principles**: Focused on "Progressive Disclosure".
+- **Application Goal**: Applying to e-commerce automation tasks (1688 sourcing, Taobao API).
+- **Project: Taobao Seed Store**: Monitoring ComfyUI sales video rendering. Continued wait for Hermes action on Taobao API auth. 
 
 ## Pending Tasks (E-commerce)
 
-- **Bottleneck (1688)**: Login portal `login.taobao.com` is consistently blocked (SSL error), though browsing `www.1688.com` is possible. Automation is restricted to guest-viewable content for now.
-- **Next Step (Automation)**: Apply "CDP-based DOM monitoring" and "Self-Correction" logic once the login barrier is bypassed (potentially via a manual session cookie or local proxy hardening).
-- **Yiwu Follow-up**: Remind the boss of the Hardware Fair arrival (8:30 AM tomorrow) and provide real-time competitor price comparisons from 1688 (where browsing is possible).
+- **Strategy Pivot**: Processing data from Yiwu visit and shifting to 1688 online sourcing/bulk price scouting (L1-L3 funnel).
+- **Automation**: Use Hermes to navigate and obtain Taobao API authorization (Pending).
+- **Video Rendering**: Monitor and verify completion of ComfyUI sales video tasks.
+- **Yiwu Data**: Consolidate photos and supplier notes from the trip into a structured sourcing database.
+
 
